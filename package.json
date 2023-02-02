@@ -43,9 +43,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/qianqianZhou2/test-utils/issues"
-  },
-  "homepage": "https://github.com/qianqianZhou2/test-utils#readme"
+  "license": "ISC"
 }
